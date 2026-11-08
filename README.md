@@ -17,7 +17,7 @@ Entre deux refactos, je code des applis autour des jeux qui me passionnent.
 ## 🔭 Ce que je fais en ce moment
 
 - 🧟 [**Zombie Deck**](https://github.com/Navis62/zombideck) : appli mobile compagnon pour *Zombicide* qui remplace la pioche physique des zombies (Expo / React Native, TypeScript, 8 langues, extensions activables)
-- 📷 [**MagicScanner**](https://github.com/Navis62/MagicScanner) : un scanner pour inventorier toute ma collection de cartes Magic
+- 📷 [**MagicScanner**](https://github.com/Navis62/MagicScanner) : un scanner webcam qui reconnaît mes cartes Magic et les liste pour la vente sur Cardmarket
 - 🖨️ Refonte de [**mb_thermal_printer**](https://github.com/Navis62/mb_thermal_printer), une imprimante thermique sur Raspberry Pi pour jouer au Momir Basic : installation en un script, lancement au démarrage, mise à jour des cartes depuis Scryfall, tests et doc complète
 - 🤝 Contribution à la refactorisation de [**kdm-app**](https://gitlab.com/taboobat/kdm-app), application communautaire de gestion de colonie pour *Kingdom Death: Monster* (GitLab)
 
